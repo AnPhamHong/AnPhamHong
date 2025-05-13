@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Frontend Developer | 🎨 UI/UX Lover | 🌱 Learning Backend  
 </p>
+<img src="banner.png" alt="banner" width="100%" />
 
 ---
 
